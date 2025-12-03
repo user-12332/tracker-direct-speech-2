@@ -19,7 +19,7 @@ STORAGE_TYPE = 'local'  # Options: 'local', 'google_drive'
 CURRENT_USER = os.environ.get('USER', 'default_user')
 
 # UI Settings
-PAGE_TITLE = 'Officials Tracker'
+PAGE_TITLE = ''
 PAGE_ICON = '📄'  # Simple document icon for browser tab
 
 # Date format
