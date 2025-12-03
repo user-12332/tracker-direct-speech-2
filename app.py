@@ -140,7 +140,7 @@ def display_position_with_actions(pos, storage, persons):
     st.markdown("")  # Spacing
 
 # Sidebar navigation
-st.sidebar.title(f"{config.PAGE_ICON} Officials Tracker")
+st.sidebar.title("Officials Tracker")
 page = st.sidebar.radio(
     "Навигация",
     ["Dashboard", 

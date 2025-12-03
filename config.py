@@ -20,7 +20,7 @@ CURRENT_USER = os.environ.get('USER', 'default_user')
 
 # UI Settings
 PAGE_TITLE = 'Officials Tracker'
-PAGE_ICON = '📋'  # Simple icon for browser tab
+PAGE_ICON = '📄'  # Simple document icon for browser tab
 
 # Date format
 DATE_FORMAT = '%Y-%m-%d'
