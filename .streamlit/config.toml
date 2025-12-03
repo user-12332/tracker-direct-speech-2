@@ -1,0 +1,16 @@
+[general]
+email = ""
+
+[server]
+headless = true
+port = 8501
+enableCORS = false
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false
+serverAddress = "0.0.0.0"
+
+[theme]
+base = "light"
+primaryColor = "#FF4B4B"

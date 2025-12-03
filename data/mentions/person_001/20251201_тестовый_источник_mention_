@@ -1,0 +1,19 @@
+{
+  "id": "mention_person_001_20251201152925",
+  "person_id": "person_001",
+  "date": "2025-12-01",
+  "source": "Тестовый источник",
+  "url": "https://example.com/test-article",
+  "title": "Тестовая статья о чиновнике",
+  "text": "Это тестовое упоминание. Здесь должен быть текст статьи или цитата из новостей.",
+  "tags": [
+    "тест",
+    "пример"
+  ],
+  "collection_method": "manual",
+  "collected_by": "test_script",
+  "collected_at": "2025-12-01T15:29:25.910040",
+  "approved": true,
+  "approved_by": null,
+  "approved_at": null
+}

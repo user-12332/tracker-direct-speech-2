@@ -1,0 +1,2 @@
+# System packages required for Streamlit Cloud
+# These will be installed automatically during deployment
